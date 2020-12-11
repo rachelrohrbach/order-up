@@ -1,6 +1,7 @@
 /* eslint-disable object-shorthand */
 /* eslint-disable arrow-parens */
 /* eslint-disable no-magic-numbers */
+/* */
 
 'use strict';
 
