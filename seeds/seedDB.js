@@ -10,7 +10,7 @@ const { floorPlanSeed } = require(`./floorPlanSeed`);
 const mongoose = require(`mongoose`);
 const db = require(`../models`);
 
-mongoose.connect(process.env.MONGODB_URI || `mongodb://localhost/orderup`, {
+mongoose.connect(process.env.MONGODB_CONNECTION || `mongodb://localhost/orderup`, {
   useUnifiedTopology: true,
   useNewUrlParser: true
 });
