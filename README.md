@@ -58,9 +58,9 @@ npm start
 ```
 
 4. Your browser will open to [http://localhost:3000/](http://localhost:3000/)
-5. The deployed application can be found on Heroku at https://order-up-jkrtr.herokuapp.com/
+5. The deployed application can be found on Heroku at https://order-up-fork.herokuapp.com/#/
 
-- Github: https://github.com/twopcz/order-up
+- Github: https://github.com/rachelrohrbach/order-up
 
 ## Technologies Used
 
